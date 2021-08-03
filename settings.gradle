@@ -1,0 +1,2 @@
+rootProject.name = "ScrollTotal"
+include ':app'
